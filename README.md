@@ -45,7 +45,7 @@ Pawfficer는 공부하거나 작업하는 동안 화면 한쪽에 작게 떠 있
 ## Install
 
 1. [Latest Release](https://github.com/HahnGyuTak/Pawfficer-Releases/releases/latest)에서 `.dmg` 파일을 다운로드합니다.
-2. `Pawfficer-0.1.0-build3.dmg`를 엽니다.
+2. `Pawfficer-0.1.0-build4.dmg`를 엽니다.
 3. `Pawfficer.app`을 `Applications` 아이콘으로 드래그합니다.
 4. Applications 폴더에서 Pawfficer를 실행합니다.
 
