@@ -6,7 +6,6 @@ Pawfficer는 공부하거나 작업하는 동안 화면 한쪽에 작게 떠 있
 
 [Download Pawfficer](https://github.com/HahnGyuTak/Pawfficer-Releases/releases/latest)
 
-![Pawfficer floating stage placeholder](assets/screenshots/01-floating-stage.svg)
 
 ## What It Does
 
@@ -16,13 +15,15 @@ Pawfficer는 공부하거나 작업하는 동안 화면 한쪽에 작게 떠 있
 - 친구들의 최근 집중 상태를 방에서 확인합니다.
 - 내 장기 학습 기록은 이 Mac에 로컬로 저장합니다.
 
-![Menu bar controls placeholder](assets/screenshots/02-menu-bar.svg)
+<img width="333" height="245" alt="screenshot 2" src="https://github.com/user-attachments/assets/d23e0e7e-3b3c-4799-889a-80ddd8f84dd4" />
+
 
 ## Rooms
 
 방을 만들고 초대 코드를 공유하면 친구들이 같은 공간에 들어올 수 있습니다. 각 방에서 내 캐릭터를 연결하거나 숨길 수 있고, 플로팅으로 띄울 방은 하나만 선택됩니다.
 
-![Rooms window placeholder](assets/screenshots/03-rooms.svg)
+<img width="937" height="581" alt="screenshot 3" src="https://github.com/user-attachments/assets/7be6591f-f846-41fd-919b-6f5319019d9f" />
+
 
 ## Floating Companions
 
@@ -30,7 +31,7 @@ Pawfficer는 공부하거나 작업하는 동안 화면 한쪽에 작게 떠 있
 
 캐릭터를 클릭하면 공부 상태와 휴식 상태를 전환할 수 있습니다. 연결이 끊어진 친구는 설정에 따라 숨기거나 잠자는 상태로 볼 수 있습니다.
 
-![Character carousel placeholder](assets/screenshots/04-character-carousel.svg)
+
 
 ## History
 
@@ -38,7 +39,8 @@ Pawfficer는 공부하거나 작업하는 동안 화면 한쪽에 작게 떠 있
 
 방에서 친구들과 공유되는 최근 집중 요약은 제한적으로만 사용되며, 장기 개인 기록과 분리됩니다.
 
-![History window placeholder](assets/screenshots/05-history.svg)
+<img width="1103" height="550" alt="image" src="https://github.com/user-attachments/assets/e6528208-5a57-41ab-b3f6-26b234c90062" />
+
 
 ## Install
 
@@ -57,21 +59,6 @@ Pawfficer는 화면, 실행 중인 앱, 키보드 입력, 카메라, 마이크, 
 - 서버 사용: 방 멤버십, 초대 코드, 실시간 presence, 최근 공유용 방 요약
 - 지원 이메일: `gue707@naver.com`
 
-## Screenshot Guide
-
-이 repo의 이미지는 현재 placeholder입니다. 실제 앱 스크린샷을 추가할 때는 아래 파일을 교체하거나 README 링크를 PNG 파일명으로 바꾸면 됩니다.
-
-- `assets/screenshots/01-floating-stage.svg`: 바탕화면 위에 떠 있는 캐릭터 플로팅 창
-- `assets/screenshots/02-menu-bar.svg`: 메뉴 막대 아이콘 클릭 시 나오는 상태/방 조작 패널
-- `assets/screenshots/03-rooms.svg`: Rooms 화면, 방 목록, create/join 영역
-- `assets/screenshots/04-character-carousel.svg`: 첫 설정 또는 Settings의 캐릭터 선택 캐러셀
-- `assets/screenshots/05-history.svg`: History 화면의 today/week/session 요약
-
-권장 캡처 크기:
-
-- 넓은 화면: 1400 x 900 정도
-- 메뉴바 팝오버: 600 x 900 정도
-- 플로팅 창: 배경이 깔끔한 바탕화면 위에서 캡처
 
 ## Release Repository
 
