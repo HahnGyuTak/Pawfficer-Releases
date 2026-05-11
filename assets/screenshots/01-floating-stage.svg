@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-label="Placeholder for floating stage screenshot">
+  <rect width="1400" height="760" rx="36" fill="#F7F7F5"/>
+  <rect x="420" y="180" width="560" height="320" rx="42" fill="#FFFFFF" stroke="#D8D5CC" stroke-width="2"/>
+  <circle cx="700" cy="325" r="78" fill="#F9C74F"/>
+  <circle cx="670" cy="300" r="18" fill="#20314F"/>
+  <circle cx="730" cy="300" r="18" fill="#20314F"/>
+  <path d="M665 352 C690 376, 710 376, 735 352" fill="none" stroke="#20314F" stroke-width="10" stroke-linecap="round"/>
+  <text x="700" y="560" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="700" fill="#20314F">Replace with floating stage screenshot</text>
+  <text x="700" y="610" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#6F747C">Show character, nickname, and timer floating over the Mac desktop.</text>
+</svg>
